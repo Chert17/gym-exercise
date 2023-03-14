@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/gym-exercise/static/css/main.0d4bff73.css",
+    "main.js": "/gym-exercise/static/js/main.30e14015.js",
+    "static/js/293.59410505.chunk.js": "/gym-exercise/static/js/293.59410505.chunk.js",
+    "static/js/89.400f5340.chunk.js": "/gym-exercise/static/js/89.400f5340.chunk.js",
+    "static/media/banner.png": "/gym-exercise/static/media/banner.5209b5e92a864ca0c615.png",
+    "static/media/gym.png": "/gym-exercise/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/gym-exercise/index.html",
+    "main.0d4bff73.css.map": "/gym-exercise/static/css/main.0d4bff73.css.map",
+    "main.30e14015.js.map": "/gym-exercise/static/js/main.30e14015.js.map",
+    "293.59410505.chunk.js.map": "/gym-exercise/static/js/293.59410505.chunk.js.map",
+    "89.400f5340.chunk.js.map": "/gym-exercise/static/js/89.400f5340.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d4bff73.css",
+    "static/js/main.30e14015.js"
+  ]
+}
